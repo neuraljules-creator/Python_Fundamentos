@@ -14,3 +14,7 @@ print("Codigo postal: ", codigo_postal)
 print("Ciudad: ", ciudad)
 print("Estado: ", estado)
 
+# editar archivo
+
+pais = "Mexico"
+print("Pais: ", pais)
